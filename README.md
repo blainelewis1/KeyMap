@@ -9,5 +9,5 @@ More details on KeyMap can be found at http://blainelewis.ca/KeyMap
 
 
 
-![KeyMap in Overleaf](./screenshots/keymapoverleaf.png?raw=true)
-![KeyMap](./screenshots/keymapgdocs.png?raw=true)
+![KeyMap in Overleaf](./screenshots/overleaf.png?raw=true)
+![KeyMap](./screenshots/dynalist.png?raw=true)
